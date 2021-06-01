@@ -1,0 +1,4 @@
+hello/micronaut/Application.java
+ hello.micronaut.Application
+hello/micronaut/HelloController.java
+ hello.micronaut.HelloController
